@@ -36,5 +36,7 @@ This tool generates a wide variety of XSS payloads using advanced obfuscation te
 ![Site](https://github.com/Irregular-luck/Mulearn_XSS/blob/main/screenshots/Screenshot%202025-09-22%20005832.png)
 ![command](https://github.com/Irregular-luck/Mulearn_XSS/blob/main/screenshots/Screenshot%202025-09-22%20010019.png)
 ![Aftereffect](https://github.com/Irregular-luck/Mulearn_XSS/blob/main/screenshots/Screenshot%202025-09-22%20005855.png)
+## Website Used
+[Portswigger](https://portswigger.net/)
 
 
