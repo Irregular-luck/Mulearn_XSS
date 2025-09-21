@@ -23,3 +23,6 @@ This tool generates a wide variety of XSS payloads using advanced obfuscation te
 - **Educational Purpose**: Learn about XSS and WAF evasion techniques
 
 ## 📂 Project Structure
+├── payload.py              # Python script to generate payloads
+├── README.md               # This documentation
+└── screenshots/ 
